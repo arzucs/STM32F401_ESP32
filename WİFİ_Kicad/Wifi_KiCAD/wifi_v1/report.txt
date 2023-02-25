@@ -1,0 +1,61 @@
+Info: Reading netlist file 'D:\PROJE\WİFİ_Kicad\Wifi_KiCAD\wifi_v1\wifi_v1.net'.
+
+Info: Using reference designators to match symbols and footprints.
+
+Info: Processing symbol 'J3:TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'R10:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'R5:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'R6:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'R7:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'R8:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'R9:Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'.
+Info: Processing symbol 'U5:RF_Module:ESP32-WROOM-32'.
+Info: Processing symbol 'Q1:Package_TO_SOT_SMD:SOT-23'.
+Info: Processing symbol 'Q2:Package_TO_SOT_SMD:SOT-23'.
+Info: Processing symbol 'U3:Package_TO_SOT_SMD:SOT-223-3_TabPin2'.
+Info: Processing symbol 'U1:Package_SO:SOIC-16_3.9x9.9mm_P1.27mm'.
+Info: Processing symbol 'U2:Package_QFP:LQFP-64_10x10mm_P0.5mm'.
+Info: Processing symbol 'D1:LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'D2:LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'FB1:Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder'.
+Info: Processing symbol 'Y1:Crystal:Crystal_HC49-4H_Vertical'.
+Info: Processing symbol 'J4:Connector_USB:USB_Mini-B_Lumberg_2486_01_Horizontal'.
+Info: Processing symbol 'J7:Connector_USB:USB_Mini-B_Lumberg_2486_01_Horizontal'.
+Info: Processing symbol 'J5:Connector_PinSocket_1.27mm:PinSocket_1x04_P1.27mm_Vertical'.
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_1x13_P2.54mm_Vertical'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical'.
+Info: Processing symbol 'J8:Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical'.
+Info: Processing symbol 'C1:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'J6:Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical'.
+Info: Processing symbol 'C17:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C11:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C18:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C15:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C19:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C10:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C20:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C21:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C14:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C16:Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder'.
+Info: Processing symbol 'C12:Capacitor_SMD:CP_Elec_5x3'.
+Info: Processing symbol 'C13:Capacitor_SMD:CP_Elec_5x3'.
+Info: Processing symbol 'SW1:Button_Switch_SMD:SW_SPST_B3U-1000P-B'.
+Info: Processing symbol 'SW2:Button_Switch_SMD:SW_SPST_B3U-1000P-B'.
+Info: Processing symbol 'SW3:Button_Switch_SMD:SW_SPST_B3U-1000P-B'.
+Change J6 footprint from 'Connector_PinSocket_2.54mm:PinSocket_1x17_P2.54mm_Vertical' to 'Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical'.
+Add J8 (footprint 'Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical').
+
+
+Info: Total warnings: 0, errors: 0.
